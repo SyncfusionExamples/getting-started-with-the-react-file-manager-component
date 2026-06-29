@@ -53,9 +53,9 @@ The File Manager configuration is handled within the React component setup. You 
 - General Syncfusion documentation:
 https://help.syncfusion.com/
 - React Introduction:
-https://ej2.syncfusion.com/react/documentation/introduction
+https://ej2.syncfusion.com/react/documentation/introduction?utm_source=github&utm_medium=listing&utm_campaign=react-file-manager-github-sample
 - React File Manager – Getting Started:
-https://ej2.syncfusion.com/react/documentation/file-manager/getting-started
+https://ej2.syncfusion.com/react/documentation/file-manager/getting-started?utm_source=github&utm_medium=listing&utm_campaign=react-file-manager-github-sample
 
 ## Additional Resources
 - [File system provider](https://ej2.syncfusion.com/react/documentation/file-manager/file-system-provider?utm_source=github&utm_medium=listing&utm_campaign=react-file-manager-github-samples) documentation:
