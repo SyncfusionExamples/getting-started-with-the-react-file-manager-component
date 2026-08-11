@@ -1,7 +1,7 @@
 import './App.css';
 import {FileManagerComponent, NavigationPane, Toolbar, DetailsView, Inject} from '@syncfusion/ej2-react-filemanager';
 function App() {
-  const host_URL = "https://ej2-aspcore-service.azurewebsites.net/";
+  const host_URL = "https://physical-service.syncfusion.com/";
   return (
     <div className="App">
       <FileManagerComponent ajaxSettings={{
